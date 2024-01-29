@@ -1,4 +1,4 @@
-export function Login(){
+export function Formulario(){
     return(
         <div className="container">
             <div className="header">
